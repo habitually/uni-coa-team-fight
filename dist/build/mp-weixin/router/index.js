@@ -1,0 +1,1 @@
+"use strict";const e=require("../common/vendor.js"),i=require("./Routeinterception.js"),n=e.$({routes:[{meta:{islogin:!0},path:"/pages/index/index",aliasPath:"/",name:"home"},{meta:{islogin:!0},path:"/pages/wode/index",name:"wode"},{meta:{islogin:!1},path:"/pages/login/index",name:"login"}]});i.userRouternext(n),exports.router=n;

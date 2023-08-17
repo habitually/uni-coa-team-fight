@@ -1,0 +1,1 @@
+<view hidden="{{!a}}" ref="transition" bindtap="{{b}}" class="{{c}}" style="{{d}}"><slot/></view>

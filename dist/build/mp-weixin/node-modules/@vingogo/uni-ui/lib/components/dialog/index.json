@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "vin-button": "../button/index",
+    "vin-popup": "../popup/index"
+  }
+}

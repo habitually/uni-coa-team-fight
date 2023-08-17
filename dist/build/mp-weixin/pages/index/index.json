@@ -1,0 +1,13 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "vin-icon": "../../node-modules/@vingogo/uni-ui/lib/components/icon/index",
+    "vin-noticebar": "../../node-modules/@vingogo/uni-ui/lib/components/noticebar/index",
+    "vin-tabpane": "../../node-modules/@vingogo/uni-ui/lib/components/tabpane/index",
+    "vin-step": "../../node-modules/@vingogo/uni-ui/lib/components/step/index",
+    "vin-steps": "../../node-modules/@vingogo/uni-ui/lib/components/steps/index",
+    "vin-button": "../../node-modules/@vingogo/uni-ui/lib/components/button/index",
+    "vin-tabs": "../../node-modules/@vingogo/uni-ui/lib/components/tabs/index",
+    "vin-action-sheet": "../../node-modules/@vingogo/uni-ui/lib/components/action-sheet/index"
+  }
+}

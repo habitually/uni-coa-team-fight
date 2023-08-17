@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "vin-overlay": "../overlay/index",
+    "vin-icon": "../icon/index",
+    "vin-transition": "../transition/index"
+  }
+}

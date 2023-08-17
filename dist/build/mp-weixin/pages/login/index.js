@@ -1,0 +1,1 @@
+"use strict";const e=require("../../common/vendor.js"),t=require("../../state/modules/auth.js"),o=e.defineComponent({__name:"index",setup(o){const n=e.j(),s=t.useAuthStore();function a(){s.token="测试",n.push({name:"home"})}return e.reactive({name:"小团体",passWord:"123456"}),(t,o)=>({a:e.o(a),b:e.o(a)})}}),n=e._export_sfc(o,[["__scopeId","data-v-06ba59ab"]]);wx.createPage(n);

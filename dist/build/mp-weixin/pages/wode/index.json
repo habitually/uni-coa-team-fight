@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "我的",
+  "usingComponents": {
+    "vin-cell": "../../node-modules/@vingogo/uni-ui/lib/components/cell/index",
+    "vin-dialog": "../../node-modules/@vingogo/uni-ui/lib/components/dialog/index"
+  }
+}

@@ -1,0 +1,33 @@
+:root {
+  --vin-tabs-titles-background-color: translate;
+  --vin-tabs-titles-item-color: rgb(156 163 175);
+  --vin-noticebar-box-padding: 0;
+}
+
+.button-hover {
+	color: inherit !important;
+	background-color: inherit !important;
+}
+
+.vin-tabpane {
+	background-color: transparent;
+	@apply p-0;
+}
+
+
+.vin-tabs__titles {
+	@apply px-0;
+}
+
+.vin-tabs__titles-item {
+	flex: initial;
+	width: initial;
+	@apply px-2;
+}
+
+.vin-tabs__titles-item.active {
+	@apply text-white text-2xl;
+}
+
+.vin-step-inner {
+}

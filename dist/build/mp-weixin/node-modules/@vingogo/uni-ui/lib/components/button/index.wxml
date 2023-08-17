@@ -1,0 +1,1 @@
+<button class="{{g}}" style="{{h}}" bindtap="{{i}}"><view class="vin-button__warp"><vin-icon wx:if="{{a}}" u-i="5ad56dc4-0" bind:__l="__l" u-p="{{b}}"></vin-icon><vin-icon wx:if="{{c}}" u-i="5ad56dc4-1" bind:__l="__l" u-p="{{d}}"></vin-icon><view wx:if="{{e}}" class="{{[f&&'text']}}"><slot></slot></view></view></button>

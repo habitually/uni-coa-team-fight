@@ -1,0 +1,1 @@
+"use strict";const n=require("../../../../../../common/vendor.js"),e=n.V;const r=n._export_sfc(e,[["render",function(e,r,t,o,s,c){return{a:n.n(e.mainClass),b:n.s(e.mainStyle)}}]]);wx.createComponent(r);
