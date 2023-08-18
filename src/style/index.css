@@ -8,6 +8,11 @@ body {
 	font-family: 'Impact';
 }
 
+html,body,#app {
+	height: 100vh;
+	overflow-x: hidden;
+}
+
 
 * {
 	/* box-sizing: border-box; */

@@ -80,7 +80,8 @@ export default defineConfig({
         },
         preprocessorOptions: {
             scss: {
-                additionalData: '@import "uniapp-nutui/styles/variables.scss";',
+				// @import "uniapp-nutui/styles/variables.scss";
+                additionalData: '@import "@/style/variables.scss";',
             },
         },
     },

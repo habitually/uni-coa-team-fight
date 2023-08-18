@@ -1,3 +1,21 @@
 .btn {
 	text-align: center;
 }
+
+.avatar-user {
+	width: 100rpx;
+	height: 100rpx;
+	border-radius: 50%;
+}
+
+.avatar.avatar-room {
+	width: 120rpx;
+	height: 120rpx;
+}
+
+.place-item-status__lock .avatar-room {
+	background-color: lightgrey;
+	background-image: url('@/static/image/icon_lock.png');
+	background-position: center;
+	background-repeat: no-repeat;
+}
