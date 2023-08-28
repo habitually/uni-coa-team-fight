@@ -148,6 +148,7 @@ const checkMoqi = () => {};
 	background: linear-gradient(180deg, rgba(13, 12, 12, 1) 0%, rgba(8, 8, 31, 0.6) 100%);
 	display: flex;
 	flex-direction: column;
+	color: #fff;
 }
 
 
