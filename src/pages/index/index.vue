@@ -142,7 +142,6 @@ const checkMoqi = () => {};
 <style lang="scss">
 .containner {
 	padding: 0 24rpx;
-	color: #fff;
 	height: 100%;
 	overflow: auto;
 	min-height: 100vh;
